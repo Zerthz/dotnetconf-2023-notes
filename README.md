@@ -7,6 +7,7 @@ aliases:
   - .NET Conf 2023 Parent Page
 url: https://www.dotnetconf.net/agenda
 ---
+This has been a labor of love, and hopefully you will find this helpful.
 # .NET Conf 2023 Overview
 Fully packed schedule, Day 1 is where the big news are dropping mostly. Between day 2 and day 3 they are broadcasting 24/7, so there is a lot of content available. The order was made before the event kicked off; I assume they made some last minute changes because it doesn't match the agenda any longer.
 
