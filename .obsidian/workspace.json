@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "85e82b3e68eda1fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0413cc49664f1738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8a2c12291cacc64",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bca8263f459a24c",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb0d657f755e1705",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d62b9452f67fcf49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5505dac6c7bfdd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02071d045055c129",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5e060fb71c727dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc7f2ce604693c5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fd320e0dd49d213",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7b8ebc4cbf4863c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14d00d4cced77842",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8682d0ac7f39544b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b8a2c12291cacc64",
+  "lastOpenFiles": [
+    "Day 3/Clean Architecture with ASP.NET Core 8.md",
+    "dotnet Conf 2023/Disclaimer.md",
+    "dotnet Conf 2023/README.md",
+    "dotnet Conf 2023/Day 3/Clean Architecture with ASP.NET Core 8.md",
+    "dotnet Conf 2023/Curated Lists/Architecture & Project Setup.md",
+    "dotnet Conf 2023/Curated Lists/New Features.md",
+    "dotnet Conf 2023/Curated Lists/Building Stuff.md",
+    "dotnet Conf 2023/Curated Lists/Blazor.md",
+    "dotnet Conf 2023/Curated Lists/MAUI.md",
+    "dotnet Conf 2023/Day 1/Performance Improvements in .NET 8, ASP.NET Core, and .NET MAUI.md",
+    "dotnet Conf 2023/Day 1/What's New in .NET MAUI.md",
+    "dotnet Conf 2023/Day 1/Welcome to .NET 8.md"
+  ]
+}
