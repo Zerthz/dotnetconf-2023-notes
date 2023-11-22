@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0413cc49664f1738",
+        "id": "afb0f7722bd0928d",
         "type": "tabs",
         "children": [
           {
-            "id": "b8a2c12291cacc64",
+            "id": "bbe4db3fb1f07038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Bonus/AI and .NET with Semantic Kernel.md",
+                "file": "_Files/Blazor in .NET 8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Bonus/AI and .NET with Semantic Kernel.md",
+                "file": "_Files/Blazor in .NET 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Bonus/AI and .NET with Semantic Kernel.md",
+                "file": "_Files/Blazor in .NET 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Bonus/AI and .NET with Semantic Kernel.md"
+                "file": "_Files/Blazor in .NET 8.md"
               }
             }
           }
@@ -146,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a2c12291cacc64",
+  "active": "bbe4db3fb1f07038",
   "lastOpenFiles": [
+    "Day 1/Full stack web UI with Blazor in .NET 8.md",
+    "Day Bonus/AI and .NET with Semantic Kernel.md",
+    "_Files/Blazor in .NET 8.md",
     "Day 3/Build .NET MAUI Apps with DevOps.md",
     "Day 3/Clean Architecture with ASP.NET Core 8.md",
     "Day 3/GitHub Copilot Tips for .NET Developers.md",
@@ -170,9 +173,6 @@
     "Day 2/Visual Studio Updates for .NET Devs.md",
     "Day 2/Tiny, fast ASP.NET Core APIs with native AOT.md",
     "Day 2/What's new in System.Text.Json.md",
-    "Day 2/In .NET 8, ASP.NET Ate.md",
-    "Day 2/App Service the best place to host your .NET 8 Web Apps.md",
-    "Day 2/Building resilient cloud services with .NET 8.md",
-    "Day 2/Improving your application telemetry using .NET 8 and Open Telemetry.md"
+    "Day 2/In .NET 8, ASP.NET Ate.md"
   ]
 }

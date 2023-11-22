@@ -20,7 +20,7 @@ Daniel Roth - Program Manager ASP.NET, Microsoft
 >To bring this to life we get a new template called Blazor Web App that comes with all the features out of the box.
 
 # Static Server Side Rendering.
-Covered most of the changes to Blazor in .NET 8 over in [Blazor in .NET 8](../../../2.%20Frontend/Blazor/Blazor%20in%20.NET%208.md).  
+Covered most of the changes to Blazor in .NET 8 over in [Blazor in .NET 8](../_Files/Blazor%20in%20.NET%208.md)
 
 Blazor in .NET 8 combines server & client. Which leverages the best of both worlds. Blazor server communicates with the client over a WebSocket using SignalR, WebAssembly downloads the WASM to the client and you run the program locally. There's a new mode now, a static Server Side Rendering mode. Which sends down a static HTML to the page.
 
