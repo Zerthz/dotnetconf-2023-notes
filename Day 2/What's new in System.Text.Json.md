@@ -7,6 +7,7 @@ tags:
 
 ---
 _Speaker: Eirik George Tsarpalis - Principal Software Engineer .NET Libraries, Microsoft_ 
+
 [Link to vod](https://www.youtube.com/watch?v=7Et6ooq4oyI) - [Blog](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-8/)
 
 >[!note]

@@ -10,6 +10,7 @@ tags:
 _Speakers:
 Daniel Roth - Program Manager ASP.NET, Microsoft 
 & Steve Sanderson - Developer/Architect, Microsoft (Original creator of Blazor)_
+
 [Link to vod](https://www.youtube.com/watch?v=YwZdtLEtROA)
 
 >[!note]

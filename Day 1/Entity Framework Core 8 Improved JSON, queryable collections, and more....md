@@ -13,6 +13,7 @@ aliases:
 _Speakers:
 Arthur Vickers - .NET Data Engineering Manager, Microsoft
 & Shay Rojansky - Principal Software Engineer on Data Access and Performance, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=_8iH5QnkIJo)
 
 >[!note]

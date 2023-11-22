@@ -10,6 +10,7 @@ tags:
 _Speakers:
 Noah Falk - Principal Software Engineer .NET Runtime, Microsoft
 Sam Spencer - Product Manager, Microsoft
+
 [Link to vod](https://www.youtube.com/watch?v=BnjHArsYGLM)
 
 >[!note]

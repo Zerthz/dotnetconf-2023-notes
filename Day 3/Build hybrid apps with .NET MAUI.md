@@ -10,6 +10,7 @@ tags:
 _Speakers: 
 Beth Massi - Principal Product Manager .NET MAUI, Microsoft
 & Eilon Lipton - Senior Development Lead, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=u30XwO9-10Q)
 
 >[!note]

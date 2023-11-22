@@ -10,6 +10,7 @@ tags:
 _Speakers: 
 Luis Quintanilla - Program Manager, Microsoft
 Maria Naggaga - Principal Program Manager, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=-3SrUqjq9Ic)
 
 >[!note]

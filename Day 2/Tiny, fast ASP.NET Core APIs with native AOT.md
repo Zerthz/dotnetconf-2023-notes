@@ -9,7 +9,8 @@ tags:
 
 ---
 _Speaker: Damian Edwards - Principal Architect, Microsoft_
-[Link to vod]()
+
+[Link to vod](https://www.youtube.com/watch?v=FpQXyFoZ9aY)
 
 >[!note]
 >### Summary

@@ -10,6 +10,7 @@ tags:
 _Speakers:
 David Orinau - Principal Product Manager, Microsoft
 Maddy Montaquila - Senior Product Manager .NET MAUI, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=4saU9BNY6l4)
 
 >[!note]

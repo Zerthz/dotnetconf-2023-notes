@@ -8,6 +8,7 @@ tags:
 
 ---
 _Speaker: Sayed Hashimi - Senior Program Manager, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=Ki4Wv-neAsw)
 
 >[!note]

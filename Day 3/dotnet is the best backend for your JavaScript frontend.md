@@ -14,6 +14,7 @@ aliases:
 _Speakers:
 Jiayan Chen - Product Manager, Microsoft
 & Daniel Roth - Program Manager ASP.NET, Microsoft_ 
+
 [Link to vod](https://youtu.be/H1LlRUqj9U4) - [Samples](https://aka.ms/dotnet/js/samples)
 
 >[!note]

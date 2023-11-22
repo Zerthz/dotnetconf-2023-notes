@@ -11,6 +11,7 @@ tags:
 _Speakers: 
 Glenn Condron - Principal Program Manager, Microsoft
 & David Fowler - Distinguished .NET Engineer, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=z1M-7Bms1Jg)
 
 >[!note]

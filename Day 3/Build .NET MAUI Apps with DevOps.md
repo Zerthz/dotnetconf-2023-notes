@@ -11,6 +11,7 @@ tags:
 _Speakers: 
 Sweekriti "Sweeky" Satpathy - Principal Software Engineer, Microsoft
 & David Ortinau - Principal Product Manager, Microsoft_
+
 [Link to vod](https://youtu.be/PattkMhmnzE) - [.NET CLI Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/tools/)
 
 >[!note]

@@ -10,6 +10,7 @@ tags:
 
 ---
 _Speaker: Steve Smith (ardalis) - Founder & Principal Architect, NimblePros_
+
 [Link to vod](https://www.youtube.com/watch?v=yF9SwL0p0Y0)
 
 >[!note]

@@ -8,6 +8,7 @@ tags:
 
 ---
 _Speaker: Martin Tomka - Senior Software Engineer, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=BDZpuFI8mMM)
 
 >[!note]

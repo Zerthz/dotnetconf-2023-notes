@@ -11,6 +11,7 @@ tags:
 
 ---
 _Speaker: Chris Sainty - Software Developer/Author/Content Creator/Microsoft MVP, Enable_
+
 [Link to vod](https://www.youtube.com/watch?v=QIdedo8iI4Y)
 
 >[!note]

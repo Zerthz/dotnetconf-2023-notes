@@ -10,6 +10,7 @@ aliases:
 
 ---
 _Speaker: Chris Ayers - Senior Customer Engineer, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=aOXaBZFB0-0) - [Resource](https://learn.microsoft.com/en-us/dotnet/core/extensions/configuration)
 
 >[!note]

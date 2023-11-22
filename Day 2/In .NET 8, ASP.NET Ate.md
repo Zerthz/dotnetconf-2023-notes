@@ -10,6 +10,7 @@ tags:
 _Speakers:
 Safia Abdalla - Software Engineer ASP.NET Core, Microsoft
 Stephen Halter - Principal Software Development Engineer, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=eWjtKwRIc54)
 
 >[!note]

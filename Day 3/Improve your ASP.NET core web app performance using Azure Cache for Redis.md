@@ -13,6 +13,7 @@ tags:
 _Speakers:
 Catherine Wang - Senior Product Manager, Microsoft
 & Marc Gravell - Principal Software Engineer, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=hVdgRw68GHM)
 
 >[!note]

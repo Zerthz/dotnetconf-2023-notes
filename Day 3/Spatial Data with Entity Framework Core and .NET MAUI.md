@@ -11,6 +11,7 @@ tags:
 
 ---
 _Speaker: Giorgi Dalakishvili - Tech Lead, Space International_
+
 [Link to vod](https://www.youtube.com/watch?v=lBFlNjRbMsk)
 
 >[!note]

@@ -9,6 +9,7 @@ tags:
 
 ---
 _Speaker: Kiah Imani - Senior Developer Advocate, Auth0 by Okta_ 
+
 [Link to vod](https://youtu.be/X7VmmVLtI7c)
 
 >[!note]

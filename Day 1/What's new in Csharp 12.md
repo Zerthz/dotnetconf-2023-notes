@@ -12,6 +12,7 @@ aliases:
 _Speakers:
 Mads Torgersen - Lead Designer of C# language, Microsoft
 & Dustin Campbell - Principal Software Engineer, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=by-GL-SjHdc)
 
 >[!note]

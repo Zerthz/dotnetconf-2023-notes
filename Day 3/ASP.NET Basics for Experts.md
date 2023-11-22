@@ -9,6 +9,7 @@ tags:
 
 ---
 _Speaker: Layla Porter - Developer Advocate/Content Creator, VMware_
+
 [Link to vod](https://youtu.be/GDCMiBu_2gI) - [Repo](https://github.com/Layla-P/BasicsForExperts-CodeEdition)
 
 >[!note]

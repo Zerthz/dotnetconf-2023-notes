@@ -11,6 +11,7 @@ tags:
 _Speakers:
 Mike Rousos - Principal Software Engineer, Microsoft
 & Olia Gavrysh - Senior Product Manager, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=awbXa4FoNqo)
 
 >[!note]

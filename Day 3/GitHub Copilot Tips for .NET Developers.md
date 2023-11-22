@@ -8,6 +8,7 @@ tags:
 
 ---
 _Speaker: Mark Downie - Product Manager, Microsoft_
+
 [Link to vod](https://youtu.be/nsSNVZF8NYo)
 
 >[!note]

@@ -12,6 +12,7 @@ aliases:
 _Speakers: 
 John Maeda - VP of Design and Artificial Intelligence, Microsoft
 & Scott Hanselman - VP Developer Community, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=A_PfDjcWIeA)
 
 >[!note]

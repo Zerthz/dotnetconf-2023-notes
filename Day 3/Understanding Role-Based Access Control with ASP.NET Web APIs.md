@@ -9,6 +9,7 @@ tags:
 
 ---
 _Speaker: Aditya Oberai - Developer Advocate, Appwrite_
+
 [Link to vod](https://www.youtube.com/watch?v=r8fVjPqpVkA)
 
 >[!note]

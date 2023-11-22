@@ -12,6 +12,7 @@ tags:
 _Speakers:
 Stephen Halter - Principal Software Development Engineer, Microsoft
 & Jeremy Likness - Principal Product Manager, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=c__Sf9j_Q2Y)
 
 >[!note]

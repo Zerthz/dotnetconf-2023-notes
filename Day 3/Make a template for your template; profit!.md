@@ -9,6 +9,7 @@ tags:
 
 ---
 _Speaker: Rob Conery - Cloud Developer Advocate, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=XzD-95qfWJM) - [Rob's gist](https://gist.github.com/robconery/6182bcdc532a54b2f47b2e969a05cfcc) - [Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/tutorials/cli-templates-create-project-template) 
 
 >[!note]

@@ -9,6 +9,7 @@ tags:
 
 ---
 _Speaker: Principal Project Manager Azure App Platform, Microsoft_
+
 [Link to vod](https://www.youtube.com/watch?v=JwGdMrmdtNo)
 
 >[!note]

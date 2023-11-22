@@ -9,6 +9,7 @@ tags:
 
 ---
 _Speaker: Egil Hansen - Distinguished Developer, Delegate_
+
 [Link to vod](https://www.youtube.com/watch?v=aorfcDeHUpw) - [Demo Repo](https://github.com/egil/BlazorTestingAZ)
 
 >[!note]

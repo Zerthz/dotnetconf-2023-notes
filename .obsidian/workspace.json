@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Day Bonus/AI and .NET with Semantic Kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Day Bonus/AI and .NET with Semantic Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Day Bonus/AI and .NET with Semantic Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Day Bonus/AI and .NET with Semantic Kernel.md"
               }
             }
           }
@@ -148,10 +148,6 @@
   },
   "active": "b8a2c12291cacc64",
   "lastOpenFiles": [
-    "Day 1/Build Intelligent Apps with .NET and Azure.md",
-    "Curated Lists/Building Stuff.md",
-    "README.md",
-    "Day Bonus/AI and .NET with Semantic Kernel.md",
     "Day 3/Build .NET MAUI Apps with DevOps.md",
     "Day 3/Clean Architecture with ASP.NET Core 8.md",
     "Day 3/GitHub Copilot Tips for .NET Developers.md",
@@ -173,6 +169,10 @@
     "Day 2/ASP.NET Core Authentication Simplified.md",
     "Day 2/Visual Studio Updates for .NET Devs.md",
     "Day 2/Tiny, fast ASP.NET Core APIs with native AOT.md",
-    "Day 2/What's new in System.Text.Json.md"
+    "Day 2/What's new in System.Text.Json.md",
+    "Day 2/In .NET 8, ASP.NET Ate.md",
+    "Day 2/App Service the best place to host your .NET 8 Web Apps.md",
+    "Day 2/Building resilient cloud services with .NET 8.md",
+    "Day 2/Improving your application telemetry using .NET 8 and Open Telemetry.md"
   ]
 }

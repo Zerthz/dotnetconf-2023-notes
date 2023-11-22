@@ -10,6 +10,7 @@ aliases:
 
 ---
 _Speaker: Luke Parker - Software Engineer, SSW_
+
 [Link to vod](https://www.youtube.com/watch?v=T-EwN9UqRwE)
 
 >[!note]
