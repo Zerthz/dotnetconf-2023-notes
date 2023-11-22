@@ -4,7 +4,7 @@ tags:
   - dotnet
   - AI
 ---
-[Previous Session - Last of Day 3](../Day%203/Build%20.NET%20MAUI%20Apps%20with%20DevOps.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session - Last of Day 3](../Day%203/Build%20.NET%20MAUI%20Apps%20with%20DevOps.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -13,7 +13,8 @@ John Maeda - VP of Design and Artificial Intelligence, Microsoft
 
 [Link to vod](https://www.youtube.com/watch?v=Bnszrmve5tg) - [Semantic Kernel - GitHub Repo](https://github.com/microsoft/semantic-kernel) - [Semantic Kernel - Microsoft Learn](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Semantic Kernel is the SDK that's used to interact with AI Services, it supports .NET, Python and Java. Semantic Kernel is still super fresh, version 1.0 drops December 15th. 
 >
 >What Semantic Kernel is doing is it's abstracting the interactions with the specific services. Allowing you to focus on the specifics.

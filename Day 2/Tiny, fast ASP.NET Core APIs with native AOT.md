@@ -5,18 +5,19 @@ tags:
   - ASP-NET
   - Native-AOT
 ---
-[Previous Session](What's%20new%20in%20System.Text.Json.md) - [Next Up](Visual%20Studio%20Updates%20for%20.NET%20Devs.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](What's%20new%20in%20System.Text.Json.md) - [Next Up](Visual%20Studio%20Updates%20for%20.NET%20Devs.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Damian Edwards - Principal Architect, Microsoft_
 [Link to vod]()
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Native AOT is made for cloud-centric API workloads. It uses a pair of 2 new `WebApplication` builders to slim the application down. By publishing in AOT we lose some things like the JIT, but we gain other things as much decreased start up time, and much decreased file size. There are some limitations to which APIs are available for an AOT application due to them needing to be trimmable. But this is always expanding too. So AOT is there for cloud-centric workloads, where you can fit more of them into a cluster than with regular applications, it's really a question if the optimization is worth it for your application.
 
 
 
->[!warning]+ Note
+>[!warning]
 >This session's demo had big issues due to a bug in Damian's VisualStudio. He talked about re-recording parts , and I might come back to those parts then. But he did talk it through instead of showing things. And his demos seem to mostly be proving that it works.
 >![](../_Files/dotnetconf-23/dotnetconf-23-damianBug.png)
 

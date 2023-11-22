@@ -4,7 +4,7 @@ tags:
   - dotnet
   - blazor
 ---
-[Previous Session](Welcome%20to%20.NET%208.md) - [Next Up](Building%20Cloud%20Native%20apps%20with%20.NET%208.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Welcome%20to%20.NET%208.md) - [Next Up](Building%20Cloud%20Native%20apps%20with%20.NET%208.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -12,7 +12,8 @@ Daniel Roth - Program Manager ASP.NET, Microsoft
 & Steve Sanderson - Developer/Architect, Microsoft (Original creator of Blazor)_
 [Link to vod](https://www.youtube.com/watch?v=YwZdtLEtROA)
 
->[!note]+ Summary
+>[!note]
+> Summary
 >The new Static Server Side Rendering allows for very fast static content to be served. You can then be selective where you sprinkle in interactivity and have server or WebAssembly based interactivity where it's needed. Giving us the best of server side rendering with client side interactivity. 
 >## New Template
 >To bring this to life we get a new template called Blazor Web App that comes with all the features out of the box.

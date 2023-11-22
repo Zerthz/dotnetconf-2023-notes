@@ -5,13 +5,14 @@ tags:
   - template
   - NuGet
 ---
-[Previous Session](Improve%20your%20ASP.NET%20core%20web%20app%20performance%20using%20Azure%20Cache%20for%20Redis.md) - [Next Up](dotnet%20is%20the%20best%20backend%20for%20your%20JavaScript%20frontend.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Improve%20your%20ASP.NET%20core%20web%20app%20performance%20using%20Azure%20Cache%20for%20Redis.md) - [Next Up](dotnet%20is%20the%20best%20backend%20for%20your%20JavaScript%20frontend.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Rob Conery - Cloud Developer Advocate, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=XzD-95qfWJM) - [Rob's gist](https://gist.github.com/robconery/6182bcdc532a54b2f47b2e969a05cfcc) - [Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/tutorials/cli-templates-create-project-template) 
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Creating a template is surprisingly simple. You can create any application type you want your project to be and add in a `.template.config` folder to get started. Rob has snippets listed that will help creating the necessary Json files for configuration. When you have your created package it's also very simple to create a NuGet package and share it with the world.
 
 Creating a template allows you to wrap up some complicated things and share it with people. 

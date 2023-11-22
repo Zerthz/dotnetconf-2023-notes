@@ -6,7 +6,7 @@ tags:
 aliases:
   - What's new in C# 12
 ---
-[Previous Session](Performance%20Improvements%20in%20.NET%208,%20ASP.NET%20Core,%20and%20.NET%20MAUI.md) - [Next Up](Entity%20Framework%20Core%208%20Improved%20JSON,%20queryable%20collections,%20and%20more....md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Performance%20Improvements%20in%20.NET%208,%20ASP.NET%20Core,%20and%20.NET%20MAUI.md) - [Next Up](Entity%20Framework%20Core%208%20Improved%20JSON,%20queryable%20collections,%20and%20more....md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -14,7 +14,8 @@ Mads Torgersen - Lead Designer of C# language, Microsoft
 & Dustin Campbell - Principal Software Engineer, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=by-GL-SjHdc)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Primary constructors is probably going to be the biggest take away from this feature of C# 12. Making the code for many types simple to write since you don't have to declare a full separate constructor. Together with capturing the parameters into properties you get less fields and such too.
 >
 >New syntax for generating collections that will unify the creation syntax. Allowing you to have an easier flow if you need to change collection type. 

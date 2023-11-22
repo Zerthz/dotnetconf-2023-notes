@@ -7,7 +7,7 @@ tags:
   - Cache
   - Azure
 ---
-[Previous Session](Blazor-testing%20from%20A%20to%20Z.md) - [Next Up](Make%20a%20template%20for%20your%20template;%20profit!.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Blazor-testing%20from%20A%20to%20Z.md) - [Next Up](Make%20a%20template%20for%20your%20template;%20profit!.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -15,7 +15,8 @@ Catherine Wang - Senior Product Manager, Microsoft
 & Marc Gravell - Principal Software Engineer, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=hVdgRw68GHM)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Implementing Redis Cache into your cloud application is a way to get improved performance very easily. ASP.NET provides libraries that Redis hooks into, so the developer doesn't have to think about using Redis directly at all. Having your cache centralized instead of in-process allows you to have many nodes but still ensure that they all have the same cache values, it also allows you to persist data if the process-session is short like in serverless solutions.
 
 # Redis Cache

@@ -4,7 +4,7 @@ tags:
   - dotnet
   - MAUI
 ---
-[Previous Session](Build%20Intelligent%20Apps%20with%20.NET%20and%20Azure.md) - [Next Up - Day 2](../Day%202/Improving%20your%20application%20telemetry%20using%20.NET%208%20and%20Open%20Telemetry.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Build%20Intelligent%20Apps%20with%20.NET%20and%20Azure.md) - [Next Up - Day 2](../Day%202/Improving%20your%20application%20telemetry%20using%20.NET%208%20and%20Open%20Telemetry.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -12,7 +12,8 @@ David Orinau - Principal Product Manager, Microsoft
 Maddy Montaquila - Senior Product Manager .NET MAUI, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=4saU9BNY6l4)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >.NET 8 introduces a lot of stability fixes and bug squashes. Trying to make it a better experience to develop MAUI. 
 >There's now a MAUI extension for VS Code that will allow you to develop MAUI there, it's still in preview but it's still good enough to use. There's also been a bunch of desktop features introducing native functionality that you would expect a framework like MAUI to have. Like drag and drop.
 

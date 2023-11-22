@@ -5,13 +5,14 @@ tags:
   - ASP-NET
   - Fundementals
 ---
-[Previous Session](dotnet%20is%20the%20best%20backend%20for%20your%20JavaScript%20frontend.md) - [Next Up](Integrating%20Third-party%20Services%20with%20.NET%208's%20Identity%20Framework.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](dotnet%20is%20the%20best%20backend%20for%20your%20JavaScript%20frontend.md) - [Next Up](Integrating%20Third-party%20Services%20with%20.NET%208's%20Identity%20Framework.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Layla Porter - Developer Advocate/Content Creator, VMware_
 [Link to vod](https://youtu.be/GDCMiBu_2gI) - [Repo](https://github.com/Layla-P/BasicsForExperts-CodeEdition)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >.NET has gotten a lot of quality of life features and a lot of features that might be jarring for new developers or returning developers. This talk covers things from how the new `Program.cs` file looks and operates to how the new Dependency Injection system works, going via the new Minimal API system. It will give you a start of point to get going.
 
 # Why? 

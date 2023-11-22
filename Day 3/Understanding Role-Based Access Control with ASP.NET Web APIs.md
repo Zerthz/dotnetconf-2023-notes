@@ -5,13 +5,14 @@ tags:
   - Authentication
   - Security
 ---
-[Previous Session](Vertical%20Slice%20Architecture%20How%20Does%20it%20Compare%20to%20Clean%20Architecture.md) - [Next Up](Spatial%20Data%20with%20Entity%20Framework%20Core%20and%20.NET%20MAUI.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Vertical%20Slice%20Architecture%20How%20Does%20it%20Compare%20to%20Clean%20Architecture.md) - [Next Up](Spatial%20Data%20with%20Entity%20Framework%20Core%20and%20.NET%20MAUI.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Aditya Oberai - Developer Advocate, Appwrite_
 [Link to vod](https://www.youtube.com/watch?v=r8fVjPqpVkA)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Role-Based Access Control got benefits such as making it easy to give new people access and also making sure that people have no more access than they absolutely need. If the amount of roles in a system grows to large it can become a large problem and add substantial maintenance overhead however. There are alternatives out there like attribute based access control and policy based access control.
 >
 >Roles can be defined in a JWT as claims and then read by the Authorization Middleware to limit access to resources.

@@ -7,13 +7,14 @@ tags:
   - CSS
   - Frontend
 ---
-[Previous Session](Spatial%20Data%20with%20Entity%20Framework%20Core%20and%20.NET%20MAUI.md) - [Next Up](Blazor-testing%20from%20A%20to%20Z.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Spatial%20Data%20with%20Entity%20Framework%20Core%20and%20.NET%20MAUI.md) - [Next Up](Blazor-testing%20from%20A%20to%20Z.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Chris Sainty - Software Developer/Author/Content Creator/Microsoft MVP, Enable_
 [Link to vod](https://www.youtube.com/watch?v=QIdedo8iI4Y)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Installing Tailwind CSS into your Blazor is as easy as it is for your regular JavaScript framework projects. The only change is that you add in your Razor to the content array instead of whatever JavaScript framework filetype. Tailwind also combines very neatly with Blazor's component model in order to make reusable styled components for your project. 
 
 [Tailwind website](https://tailwindcss.com/) - [Tailwind Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet) 

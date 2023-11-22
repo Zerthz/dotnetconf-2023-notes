@@ -5,7 +5,7 @@ tags:
   - Cloud
   - Aspire
 ---
-[Previous Session](Full%20stack%20web%20UI%20with%20Blazor%20in%20.NET%208.md) - [Next Up](Performance%20Improvements%20in%20.NET%208,%20ASP.NET%20Core,%20and%20.NET%20MAUI.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Full%20stack%20web%20UI%20with%20Blazor%20in%20.NET%208.md) - [Next Up](Performance%20Improvements%20in%20.NET%208,%20ASP.NET%20Core,%20and%20.NET%20MAUI.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers: 
@@ -13,7 +13,8 @@ Glenn Condron - Principal Program Manager, Microsoft
 & David Fowler - Distinguished .NET Engineer, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=z1M-7Bms1Jg)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Aspire is basically the future for Cloud Native .NET applications. In the AppHost you register the applications that should be in the Aspire Orchestration and be run together. And with the ServiceDefaults you get access to a bunch of Cloud Services, like Redis, configured with defaults that gets you going faster. Everything is customizable and in C# which gives you help with intellisense etc.
 
 

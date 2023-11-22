@@ -4,13 +4,14 @@ tags:
   - dotnet
   - VisualStudio
 ---
-[Previous Session](Tiny,%20fast%20ASP.NET%20Core%20APIs%20with%20native%20AOT.md) - [Next Up](ASP.NET%20Core%20Authentication%20Simplified.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Tiny,%20fast%20ASP.NET%20Core%20APIs%20with%20native%20AOT.md) - [Next Up](ASP.NET%20Core%20Authentication%20Simplified.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Sayed Hashimi - Senior Program Manager, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=Ki4Wv-neAsw)
 
->[!tldr]+ Summary
+>[!note]
+>### Summary
 >The biggest thing is the Http Files which will help you develop more efficiently, not having to leave your flow and move over to something like Postman. Especially with the combined functionality of Endpoint explorer and Generate Requests from endpoint which will automatically generate a request. 
 >
 >The Dev Tunnels functionality seem neat if you need to share your build with your colleagues or a client for a demonstration.

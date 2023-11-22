@@ -6,13 +6,14 @@ tags:
 aliases:
   - .NET Configuration In Depth
 ---
-[Previous Session - End of Day 2](../Day%202/Migrating%20.NET%20applications%20to%20Azure.md) - [Next Up](Dynamic%20PGO.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session - End of Day 2](../Day%202/Migrating%20.NET%20applications%20to%20Azure.md) - [Next Up](Dynamic%20PGO.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Chris Ayers - Senior Customer Engineer, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=aOXaBZFB0-0) - [Resource](https://learn.microsoft.com/en-us/dotnet/core/extensions/configuration)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >You have so much freedom when it comes to configuration, and the best part is that it all mostly work the same way, it gets hooked into our existing configuration. The best practices is to bind your settings you're going to be using into a class. Then register this class with a flavour of the options interface so it can be injected. This way you can provide your configuration with data annotations and have better control of the access to the properties. The properties becomes easier to handle compared to the raw strings.
 
 # What is configuration?

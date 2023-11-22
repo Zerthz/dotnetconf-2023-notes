@@ -5,7 +5,7 @@ tags:
   - Azure
   - Cloud
 ---
-[Previous Session](ASP.NET%20Core%20Authentication%20Simplified.md) - [Next Session - Day 3](../Day%203/dotnet%20Configuration%20In%20Depth.md)- [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](ASP.NET%20Core%20Authentication%20Simplified.md) - [Next Session - Day 3](../Day%203/dotnet%20Configuration%20In%20Depth.md)- [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -13,7 +13,8 @@ Mike Rousos - Principal Software Engineer, Microsoft
 & Olia Gavrysh - Senior Product Manager, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=awbXa4FoNqo)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >The Azure Migrate Application and Code Assessment tool will scan your source code and/or binaries and give you a detailed report of all the things that will need to be updated to ensure a smooth migration to Azure. The tool will link to your specific code problems and give you advice on what to do. The tool exists both as a VisualStudio extension and as a CLI tool.
 
 They make it sound like this talk is about moving from on-premise not from other Cloud to Azure. But a lot should be applicable.

@@ -4,7 +4,7 @@ tags:
   - dotnet
   - Telemetry
 ---
-[Previous Session - End of day 1](../Day%201/What's%20New%20in%20.NET%20MAUI.md) - [Next Up](Building%20resilient%20cloud%20services%20with%20.NET%208.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session - End of day 1](../Day%201/What's%20New%20in%20.NET%20MAUI.md) - [Next Up](Building%20resilient%20cloud%20services%20with%20.NET%208.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -12,7 +12,8 @@ Noah Falk - Principal Software Engineer .NET Runtime, Microsoft
 Sam Spencer - Product Manager, Microsoft
 [Link to vod](https://www.youtube.com/watch?v=BnjHArsYGLM)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >New support stronger support for metrics and logging in .NET 8. Encouraging you to build your logs in a more performant way and not using the quick and dirty extension methods on ILogger. The ILogger extension methods do not scale well with high frequency applications. 
 >Metrics are now built into ASP.NET and they're super simple to use with DI thanks to IMeterFactory. 
 

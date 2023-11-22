@@ -5,12 +5,13 @@ tags:
 aliases:
   - Keynote .NET Conf 2023
 ---
-[Next Up](Full%20stack%20web%20UI%20with%20Blazor%20in%20.NET%208.md) - [.NET Conf 2023 Parent Page](README.md)
+[Next Up](Full%20stack%20web%20UI%20with%20Blazor%20in%20.NET%208.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 [Link to vod](https://www.youtube.com/watch?v=mna5fg7QGz8)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >.NET Aspire is a new stack, with a new Template and project type that will help you build Cloud Native applications. Coming with preconfigured services ready to get going.
 >Upgrades across the board. To performance and more. 
 >

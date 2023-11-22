@@ -6,7 +6,7 @@ tags:
   - ASP-NET
   - MAUI
 ---
-[Previous Session](Building%20Cloud%20Native%20apps%20with%20.NET%208.md) - [Next Up](What's%20new%20in%20Csharp%2012.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Building%20Cloud%20Native%20apps%20with%20.NET%208.md) - [Next Up](What's%20new%20in%20Csharp%2012.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -18,7 +18,8 @@ Note: Stephen Toub is the author of the [Performance Improvements in .NET 8](htt
 
 [Link to vod](https://www.youtube.com/watch?v=YiOkz1x2qaE)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >As always with performance improvements there's many small things adding up to be big updates. The best way to make your application more performant is to simply update your application to .NET 8. 
 >Each and every one of the topics here are also in blogs that each team posts, not only the Performance blog by Stephen Toub.
 

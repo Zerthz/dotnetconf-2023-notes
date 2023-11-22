@@ -4,7 +4,7 @@ tags:
   - dotnet
   - MAUI
 ---
-[Previous Session](Dynamic%20PGO.md) - [Next Up](What's%20New%20in%20NuGet%20for%20.NET%208.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Dynamic%20PGO.md) - [Next Up](What's%20New%20in%20NuGet%20for%20.NET%208.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers: 
@@ -12,7 +12,8 @@ Beth Massi - Principal Product Manager .NET MAUI, Microsoft
 & Eilon Lipton - Senior Development Lead, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=u30XwO9-10Q)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Hybrid apps are great for web devs that want native plattform capabilities and store distribution. Hybrid apps allow you to reuse UI/Components across web apps and native app with the help of component libraries, and interfaces which relies on platform implementation. You leverage MAUI's capabilities for multi-platform abstractions and it's multitageting, making it easy to target multiple platforms from one codebase.
 
 # What are hybrid apps?

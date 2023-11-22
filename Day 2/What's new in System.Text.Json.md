@@ -3,13 +3,14 @@ tags:
   - Conference
   - dotnet
 ---
-[Previous Session](In%20.NET%208,%20ASP.NET%20Ate.md) - [Next Up](Tiny,%20fast%20ASP.NET%20Core%20APIs%20with%20native%20AOT.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](In%20.NET%208,%20ASP.NET%20Ate.md) - [Next Up](Tiny,%20fast%20ASP.NET%20Core%20APIs%20with%20native%20AOT.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Eirik George Tsarpalis - Principal Software Engineer .NET Libraries, Microsoft_ 
 [Link to vod](https://www.youtube.com/watch?v=7Et6ooq4oyI) - [Blog](https://devblogs.microsoft.com/dotnet/system-text-json-in-dotnet-8/)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Unless you have specific needs there's no reason to use anything but `System.Text.Json`.
 >In .NET 8 the Source Generator got improvements that made it more performant and better to handle multiple new scenarios. The serializer also got improvement to handle a bunch new features. More types are supported aswell.
 

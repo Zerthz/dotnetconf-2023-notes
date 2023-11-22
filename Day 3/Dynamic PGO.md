@@ -3,7 +3,7 @@ tags:
   - Conference
   - dotnet
 ---
-[Previous Session](dotnet%20Configuration%20In%20Depth.md) - [Next Up](Build%20hybrid%20apps%20with%20.NET%20MAUI.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](dotnet%20Configuration%20In%20Depth.md) - [Next Up](Build%20hybrid%20apps%20with%20.NET%20MAUI.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Andy Ayers - Principal Software Development Engineer, Microsoft_
@@ -12,7 +12,8 @@ Egor Bogatov (Senior Software Engineer, Microsoft) was meant to also be a part o
 
 [Link to vod](https://youtu.be/WrpYcGic9b8)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Dynamic PGO is enabled by default in .NET 8 and it should lead to a solid performance increase out of the box. Dynamic PGO will instrument your compiled methods and optimize the ones that are used heavily to be as efficient as possible, while not wasting time on methods that are not used as much.
 
 This is probably be going over my head a little bit. But I am interested in the topic and I want to learn more so will try to convey what I can. 

@@ -8,7 +8,7 @@ tags:
 aliases:
   - .NET is the best backend for your JavaScript frontend
 ---
-[Previous Session](Make%20a%20template%20for%20your%20template;%20profit!.md) - [Next Up](ASP.NET%20Basics%20for%20Experts.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Make%20a%20template%20for%20your%20template;%20profit!.md) - [Next Up](ASP.NET%20Basics%20for%20Experts.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -16,7 +16,8 @@ Jiayan Chen - Product Manager, Microsoft
 & Daniel Roth - Program Manager ASP.NET, Microsoft_ 
 [Link to vod](https://youtu.be/H1LlRUqj9U4) - [Samples](https://aka.ms/dotnet/js/samples)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >With the new JavaScript Project system and SDK it's easier than ever to have a JavaScript frontend to your .NET backend. They live next to each other directly in VisualStudio, and you have support for React, Angular, Vue both with JavaScript and Typescript. VisualStudio and MSBuild takes care of everything from dependencies, running, publishing, running tests etc. All out of the box.
 # Using .NET with JavaScript
 .NET is a great backend for any frontend. But it can come with some problems that you need to address. How do you integrate your JavaScript build toolchain with your .NET build? How do manage your .NET dependencies next along side your JavaScript dependencies? How do you set up your environment so that you can both run, debug, test your .NET code and your JavaScript code? When you're done with your project how do you publish your frontend alongside your backend?

@@ -4,14 +4,15 @@ tags:
   - dotnet
   - NuGet
 ---
-[Previous Session](Build%20hybrid%20apps%20with%20.NET%20MAUI.md) - [Next Up](Vertical%20Slice%20Architecture%20How%20Does%20it%20Compare%20to%20Clean%20Architecture.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Build%20hybrid%20apps%20with%20.NET%20MAUI.md) - [Next Up](Vertical%20Slice%20Architecture%20How%20Does%20it%20Compare%20to%20Clean%20Architecture.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Allie Barry - Product Manager NuGet, Microsoft_
 
 [Link to vod](https://youtu.be/u38Qb0Eay28) - [Release Notes](https://devblogs.microsoft.com/nuget/announcing-nuget-6-8-maintaining-security-with-ease/)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >The new NuGet updates will make it easier for the end user to be sure that the packages that they download or have in their project does not have any known vulnerabilities. You will get alerts everywhere if you do have these. 
 >
 >Package Source Mapping is a way to make it even more safe to download packages because you ensure that the source is one that you do want to have it from. And in .NET 8 they will enable this by default when you download packages. 

@@ -5,13 +5,14 @@ tags:
   - Security
   - Authentication
 ---
-[Previous Session](ASP.NET%20Basics%20for%20Experts.md) - [Next Up](GitHub%20Copilot%20Tips%20for%20.NET%20Developers.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](ASP.NET%20Basics%20for%20Experts.md) - [Next Up](GitHub%20Copilot%20Tips%20for%20.NET%20Developers.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Kiah Imani - Senior Developer Advocate, Auth0 by Okta_ 
 [Link to vod](https://youtu.be/X7VmmVLtI7c)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Adding third party providers to your Identity framework in .NET 8, be it social logins or something like Auth0, is as simple as it gets. You register your application with the external service, get the specific libraries, register the authentication service in your service container. With .NET 8 you get access to Identity Endpoints, and with that you're good to go. Adding new external logons will be automatically picked up by Identity.
 # Preferences
 According to a poll Kiah did a majority of the people preferred to use social login instead of magic links or one-time passwords. With one-time passwords being a not too distant second. There's actual studies that support this claim too. A study showed that 78% of people aged 18-25 prefer social logins. 

@@ -6,19 +6,20 @@ tags:
 aliases:
   - "Vertical Slice Architecture: How Does it Compare to Clean Architecture"
 ---
-[Previous Session](What's%20New%20in%20NuGet%20for%20.NET%208.md) - [Next Up](Understanding%20Role-Based%20Access%20Control%20with%20ASP.NET%20Web%20APIs.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](What's%20New%20in%20NuGet%20for%20.NET%208.md) - [Next Up](Understanding%20Role-Based%20Access%20Control%20with%20ASP.NET%20Web%20APIs.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Luke Parker - Software Engineer, SSW_
 [Link to vod](https://www.youtube.com/watch?v=T-EwN9UqRwE)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Vertical Slices cut the codebase down at a feature level instead of a technical level which Clean does. It allows you to have decoupled features that doesn't affect each other when they get changed. Since code that is executed together is next to each other in the codebase it's easy to find all the places where a request touch on it's way through the application. There will be shared code even in a vertical application and it's risky to place code in the shared space since that's a dependency outside the slice. Knowing what to put in the shared space is key to not have a spaghetti application.
 
 _There are two architecture talks this Conference, this one about Vertical Slices and [Clean Architecture with ASP.NET Core 8](Clean%20Architecture%20with%20ASP.NET%20Core%208.md) talking about Clean. It might be well worth it to watch both to get sort of both perspectives._ 
 
 
->[!warning]+ 
+>[!warning] 
 >His screen is frozen in the vod right when he is showing the code. At least as of 2023-11-18. So no real idea what's going on there.
 # No Architecture
 In a web API there's typically three kinds of things going on. Presentation logic, business logic, and system logic - EF Core and the like. No architecture is what we call spaghetti architecture and it's not what you want for an application with any kind of size.

@@ -4,7 +4,7 @@ tags:
   - dotnet
   - ASP-NET
 ---
-[Previous Session](App%20Service%20the%20best%20place%20to%20host%20your%20.NET%208%20Web%20Apps.md) - [Next Up](What's%20new%20in%20System.Text.Json.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](App%20Service%20the%20best%20place%20to%20host%20your%20.NET%208%20Web%20Apps.md) - [Next Up](What's%20new%20in%20System.Text.Json.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -12,7 +12,8 @@ Safia Abdalla - Software Engineer ASP.NET Core, Microsoft
 Stephen Halter - Principal Software Development Engineer, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=eWjtKwRIc54)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >A bunch of upgrades got shipped that doesn't warrant a full session on it's own. The most prevalent ones include AntiForgery support for the framework, not only MVC auth culture. 
 >
 >Keyed services makes it easy to have multiple implementations of the same type by having unique keys. 

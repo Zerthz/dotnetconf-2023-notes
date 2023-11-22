@@ -4,13 +4,14 @@ tags:
   - dotnet
   - Cloud
 ---
-[Previous Session](Improving%20your%20application%20telemetry%20using%20.NET%208%20and%20Open%20Telemetry.md) - [Next Up](App%20Service%20the%20best%20place%20to%20host%20your%20.NET%208%20Web%20Apps.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Improving%20your%20application%20telemetry%20using%20.NET%208%20and%20Open%20Telemetry.md) - [Next Up](App%20Service%20the%20best%20place%20to%20host%20your%20.NET%208%20Web%20Apps.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Martin Tomka - Senior Software Engineer, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=BDZpuFI8mMM)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Resilience is massively important for Cloud applications because they will fail sooner or later, and it's part of developing for cloud to roll with the punches with good resiliency policies.
 >Polly got a new massive version that got released this September. .NET 8 takes advantage of this 
 >new feature and with some easy NuGet packages you can add a more performant easy to use resilience pipeline. There are 2 pre configured pipelines setup, and you have the option to configure one on your own. Pollys docs are also improved so it's really a good time to get going with Polly.

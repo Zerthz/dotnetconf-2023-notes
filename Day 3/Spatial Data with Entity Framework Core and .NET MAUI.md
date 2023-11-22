@@ -7,13 +7,14 @@ tags:
   - NuGet
   - Geometry
 ---
-[Previous Session](Understanding%20Role-Based%20Access%20Control%20with%20ASP.NET%20Web%20APIs.md) - [Next Up](Building%20beautiful%20Blazor%20apps%20with%20Tailwind%20CSS.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Understanding%20Role-Based%20Access%20Control%20with%20ASP.NET%20Web%20APIs.md) - [Next Up](Building%20beautiful%20Blazor%20apps%20with%20Tailwind%20CSS.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Giorgi Dalakishvili - Tech Lead, Space International_
 [Link to vod](https://www.youtube.com/watch?v=lBFlNjRbMsk)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >With spatial data we're talking about 2D geometric data. All modern relational database providers support storing this kind of data. We can work with it in .NET applications by using the `NetTopologySuite` NuGet package. This will give us access to the data types and the methods needed to work on Spatial data. Getting it to work with EF Core is as simple as putting it into the configuration in EF Core setup. 
 
 _Nothing here is really exclusive to MAUI except for the  specifics of the demos._

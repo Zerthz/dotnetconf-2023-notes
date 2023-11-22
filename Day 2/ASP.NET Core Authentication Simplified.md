@@ -6,7 +6,7 @@ tags:
   - Security
   - ASP-NET
 ---
-[Previous Session](Visual%20Studio%20Updates%20for%20.NET%20Devs.md) - [Next Up](Migrating%20.NET%20applications%20to%20Azure.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Visual%20Studio%20Updates%20for%20.NET%20Devs.md) - [Next Up](Migrating%20.NET%20applications%20to%20Azure.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -14,7 +14,8 @@ Stephen Halter - Principal Software Development Engineer, Microsoft
 & Jeremy Likness - Principal Product Manager, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=c__Sf9j_Q2Y)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >The ASP.NET Core Identity framework now exposes a bunch of APIs related to authentication. These are meant to be consumed by applications. All rely on having Entity Framework Core. This works with the new Blazor Web App template in .NET 8 in Auto render mode, but you have to set up a `PersistentAuthenticationState` on both the client and the server in order to persist the authentication when you enter WebAssembly rendering.
 
 Auth was one of the most upvoted feature requests on the team's GitHub page. Especially the auth flow for SPA. They've found that 1 in 3 applications with auth use ASP.NET Core Identity. They really wanted to simplify the process for developers.

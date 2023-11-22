@@ -6,13 +6,14 @@ tags:
   - Architecture
   - Clean
 ---
-[Previous Session](GitHub%20Copilot%20Tips%20for%20.NET%20Developers.md) - [Next Up](Build%20.NET%20MAUI%20Apps%20with%20DevOps.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](GitHub%20Copilot%20Tips%20for%20.NET%20Developers.md) - [Next Up](Build%20.NET%20MAUI%20Apps%20with%20DevOps.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Steve Smith (ardalis) - Founder & Principal Architect, NimblePros_
 [Link to vod](https://www.youtube.com/watch?v=yF9SwL0p0Y0)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Clean Architecture is a more sophisticated take on the old n-tier architecture. Clean works well in conjunction with Domain-Driven Design. The main thing Clean does for you is that it inverses the dependency on the database. By having the Domain at the center which has interfaces which the Infrastructure can implement the dependency is not pointing at the database anymore. Clean might be more verbose but it's also providing you with the guardrails and security that you're not breaking things.
 
 _There are two architecture talks this Conference, this one about Clean and [Vertical Slice Architecture: How Does it Compare to Clean Architecture](Vertical%20Slice%20Architecture%20How%20Does%20it%20Compare%20to%20Clean%20Architecture.md) talking about vertical slices. It might be well worth it to watch both to get sort of both perspectives._ 

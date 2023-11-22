@@ -4,7 +4,7 @@ tags:
   - dotnet
   - AI
 ---
-[Previous Session](dotnet%20💖%20AI.md) - [Next Up](What's%20New%20in%20.NET%20MAUI.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](dotnet%20💖%20AI.md) - [Next Up](What's%20New%20in%20.NET%20MAUI.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers: 
@@ -12,7 +12,8 @@ Luis Quintanilla - Program Manager, Microsoft
 Maria Naggaga - Principal Program Manager, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=-3SrUqjq9Ic)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Adding AI to your applications is not that hard anymore. In C# it mostly comes down to understanding Semantic Kernel which is an abstraction on the models. [There's](https://aka.ms/ai-dotnet-learn) a link here for much, much more hands on information. Semantic Kernel is just an orchestrator that strings the intelligent model together.
 
 To dive into this on your own there's a resource page gathering a lot of repos [here](https://aka.ms/ai-dotnet-learn). Also comes with links to all the documentation.

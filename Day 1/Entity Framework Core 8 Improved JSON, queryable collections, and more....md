@@ -7,7 +7,7 @@ tags:
 aliases:
   - "Entity Framework Core 8: Improved JSON, queryable collections, and more..."
 ---
-[Previous Session](What's%20new%20in%20Csharp%2012.md) - [Next Up](dotnet%20💖%20AI.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](What's%20new%20in%20Csharp%2012.md) - [Next Up](dotnet%20💖%20AI.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers:
@@ -15,7 +15,8 @@ Arthur Vickers - .NET Data Engineering Manager, Microsoft
 & Shay Rojansky - Principal Software Engineer on Data Access and Performance, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=_8iH5QnkIJo)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Document and relational databases both have strengths. EF core with this update aims to converge and take advantage of these strengths, while still having common patterns for both schemas. 
 >EF Core uses the first-class JSON support modern relational databases comes with, and together with a rich EF model it can query for specific things inside JSON columns.
 >It also enables powerful patterns like primitive collections, and collection of entities. Support for PostgreSQL, SQL Server, SQLite.

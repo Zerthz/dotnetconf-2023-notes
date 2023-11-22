@@ -5,13 +5,14 @@ tags:
   - blazor
   - Testing
 ---
-[Previous Session](Building%20beautiful%20Blazor%20apps%20with%20Tailwind%20CSS.md) - [Next Up](Improve%20your%20ASP.NET%20core%20web%20app%20performance%20using%20Azure%20Cache%20for%20Redis.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Building%20beautiful%20Blazor%20apps%20with%20Tailwind%20CSS.md) - [Next Up](Improve%20your%20ASP.NET%20core%20web%20app%20performance%20using%20Azure%20Cache%20for%20Redis.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Egil Hansen - Distinguished Developer, Delegate_
 [Link to vod](https://www.youtube.com/watch?v=aorfcDeHUpw) - [Demo Repo](https://github.com/egil/BlazorTestingAZ)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Blazor supports Playwright for end-to-end testing. Together with `WebApplicationFactory` you can easily create e2e tests that uses the actual browser while keeping the applications in-process. The recommended test-runner is NUnit or MS Test. For component testing bUnit makes it very simple to create small unit-tests. The library makes it easy to write thin tests that follow the AAA principle.
 >
 

@@ -5,7 +5,7 @@ tags:
   - CI-CD
   - MAUI
 ---
-[Previous Session](Clean%20Architecture%20with%20ASP.NET%20Core%208.md) - [Next Up - Bonus Sessions](../Day%20Bonus/AI%20and%20.NET%20with%20Semantic%20Kernel.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Clean%20Architecture%20with%20ASP.NET%20Core%208.md) - [Next Up - Bonus Sessions](../Day%20Bonus/AI%20and%20.NET%20with%20Semantic%20Kernel.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers: 
@@ -13,7 +13,8 @@ Sweekriti "Sweeky" Satpathy - Principal Software Engineer, Microsoft
 & David Ortinau - Principal Product Manager, Microsoft_
 [Link to vod](https://youtu.be/PattkMhmnzE) - [.NET CLI Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/tools/)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >Building your MAUI apps is not that dissimilar to building anything with a pipeline. Important to keep in mind is to keep your tasks/actions modular so you can move things around and plug in where you need them. The MAUI specific things comes from having a block that install the MAUI workload and having a block for installing the necessary certifications to sign your App for distribution.
 >
 >There are tasks that you can get from the Marketplace to help with deployment on Azure DevOps. For GitHub Actions Sweeky recommends to use Fastlane a service to help with deployment.

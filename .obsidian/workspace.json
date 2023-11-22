@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 3/Clean Architecture with ASP.NET Core 8.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 3/Clean Architecture with ASP.NET Core 8.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 3/Clean Architecture with ASP.NET Core 8.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 3/Clean Architecture with ASP.NET Core 8.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,19 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d62b9452f67fcf49",
+  "active": "b8a2c12291cacc64",
   "lastOpenFiles": [
+    "Day 1/Build Intelligent Apps with .NET and Azure.md",
+    "Curated Lists/Building Stuff.md",
+    "README.md",
+    "Day Bonus/AI and .NET with Semantic Kernel.md",
+    "Day 3/Build .NET MAUI Apps with DevOps.md",
     "Day 3/Clean Architecture with ASP.NET Core 8.md",
-    "dotnet Conf 2023/Disclaimer.md",
-    "dotnet Conf 2023/README.md",
-    "dotnet Conf 2023/Day 3/Clean Architecture with ASP.NET Core 8.md",
-    "dotnet Conf 2023/Curated Lists/Architecture & Project Setup.md",
-    "dotnet Conf 2023/Curated Lists/New Features.md",
-    "dotnet Conf 2023/Curated Lists/Building Stuff.md",
-    "dotnet Conf 2023/Curated Lists/Blazor.md",
-    "dotnet Conf 2023/Curated Lists/MAUI.md",
-    "dotnet Conf 2023/Day 1/Performance Improvements in .NET 8, ASP.NET Core, and .NET MAUI.md",
-    "dotnet Conf 2023/Day 1/What's New in .NET MAUI.md",
-    "dotnet Conf 2023/Day 1/Welcome to .NET 8.md"
+    "Day 3/GitHub Copilot Tips for .NET Developers.md",
+    "Day 3/Integrating Third-party Services with .NET 8's Identity Framework.md",
+    "Day 3/ASP.NET Basics for Experts.md",
+    "Day 3/dotnet is the best backend for your JavaScript frontend.md",
+    "Day 3/Make a template for your template; profit!.md",
+    "Day 3/Improve your ASP.NET core web app performance using Azure Cache for Redis.md",
+    "Day 3/Blazor-testing from A to Z.md",
+    "Day 3/Building beautiful Blazor apps with Tailwind CSS.md",
+    "Day 3/Spatial Data with Entity Framework Core and .NET MAUI.md",
+    "Day 3/Understanding Role-Based Access Control with ASP.NET Web APIs.md",
+    "Day 3/Vertical Slice Architecture How Does it Compare to Clean Architecture.md",
+    "Day 3/What's New in NuGet for .NET 8.md",
+    "Day 3/Build hybrid apps with .NET MAUI.md",
+    "Day 3/Dynamic PGO.md",
+    "Day 3/dotnet Configuration In Depth.md",
+    "Day 2/Migrating .NET applications to Azure.md",
+    "Day 2/ASP.NET Core Authentication Simplified.md",
+    "Day 2/Visual Studio Updates for .NET Devs.md",
+    "Day 2/Tiny, fast ASP.NET Core APIs with native AOT.md",
+    "Day 2/What's new in System.Text.Json.md"
   ]
 }

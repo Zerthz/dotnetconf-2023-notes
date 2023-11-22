@@ -6,7 +6,7 @@ tags:
 aliases:
   - .NET 💖 AI
 ---
-[Previous Session](Entity%20Framework%20Core%208%20Improved%20JSON,%20queryable%20collections,%20and%20more....md) - [Next Up](Build%20Intelligent%20Apps%20with%20.NET%20and%20Azure.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Entity%20Framework%20Core%208%20Improved%20JSON,%20queryable%20collections,%20and%20more....md) - [Next Up](Build%20Intelligent%20Apps%20with%20.NET%20and%20Azure.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speakers: 
@@ -14,7 +14,8 @@ John Maeda - VP of Design and Artificial Intelligence, Microsoft
 & Scott Hanselman - VP Developer Community, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=A_PfDjcWIeA)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >AI Models are nothing without the context that we provide it with. At least not if we want something that's actually helpful for our scenarios. 
 >Semantic Kernel is the SDK that allows us to interface with these LLMs through .NET code. They're build by a Plugin first policy, where you pull in plugins to have agents do what you want them to do. 
 

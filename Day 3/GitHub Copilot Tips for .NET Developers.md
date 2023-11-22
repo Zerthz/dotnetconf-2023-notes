@@ -4,13 +4,14 @@ tags:
   - dotnet
   - AI
 ---
-[Previous Session](Integrating%20Third-party%20Services%20with%20.NET%208's%20Identity%20Framework.md) - [Next Up](Clean%20Architecture%20with%20ASP.NET%20Core%208.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Integrating%20Third-party%20Services%20with%20.NET%208's%20Identity%20Framework.md) - [Next Up](Clean%20Architecture%20with%20ASP.NET%20Core%208.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Mark Downie - Product Manager, Microsoft_
 [Link to vod](https://youtu.be/nsSNVZF8NYo)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >By using GitHub Copilot in VisualStudio we can get an AI companion which can solve problems that are annoying, such as Regular Expressions, with natural language. By using the inline chat we don't give it more context than it needs. We can get help with error solving too, where we have a conversation with Copilot where it will provide us with a hypothesis of how to solve the issue.
 >
 >The most important thing is to recognize that it's our job as a developer to verify what the AI Companion provides. We have to make sure that the code is tested and good to actually use in a variety of situations.

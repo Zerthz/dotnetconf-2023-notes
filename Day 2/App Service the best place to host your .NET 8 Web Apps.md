@@ -5,13 +5,14 @@ tags:
   - Cloud
   - Azure
 ---
-[Previous Session](Building%20resilient%20cloud%20services%20with%20.NET%208.md) - [Next Up](In%20.NET%208,%20ASP.NET%20Ate.md) - [.NET Conf 2023 Parent Page](README.md)
+[Previous Session](Building%20resilient%20cloud%20services%20with%20.NET%208.md) - [Next Up](In%20.NET%208,%20ASP.NET%20Ate.md) - [.NET Conf 2023 Parent Page](../README.md)
 
 ---
 _Speaker: Principal Project Manager Azure App Platform, Microsoft_
 [Link to vod](https://www.youtube.com/watch?v=JwGdMrmdtNo)
 
->[!note]+ Summary
+>[!note]
+>### Summary
 >When creating a webapp you can now choose to deploy a database from the same workflow. This will setup all the resources and establish the connection between database and webapp without us having to do the manual work.
 >
 >The portal has gotten some updates with Environment Variables breaking out from Configuration to it's own tab.
