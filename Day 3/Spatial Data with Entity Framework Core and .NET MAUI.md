@@ -36,13 +36,13 @@ Polygons represent an area. You got an outer boundary that's represented by a ri
 You can define multiple polygons together. These can be fully inside one another. Like a donut.
 # Query samples
 You can do things like this. Where `ST_Area` is a built in function in the database provider. Note that the name can be a little bit different in the specific database provider but it's mostly the same. For example in SQL Server the function is called [`STArea`](https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/starea-geography-data-type?view=sql-server-ver16). This will take the specified polygon from the WHERE statement and return it's calculated area.  
-![](dotnetconf-23-spatial-area.png)
+![](../_Files/dotnetconf-23/dotnetconf-23-spatial-area.png)
 
 ## Spatial Relations
 You can call things like `ST_Intersects` to see if two shapes intersect with each other. Or functions like `ST_DWithin` which will tell you if geometries are within a given distance. This helps you find items within X meters of a given location.
 ## Spatial Joins
 You can use spatial relations functions when joining tables together. Like this example which joins the neighbourhoods and subways tables together. But it's using the `ST_Contains` function to check which neighbourhood contains the subway station. 
-![|400](dotnetconf-23-spatial-join.png)
+![|400](../_Files/dotnetconf-23/dotnetconf-23-spatial-join.png)
 # Spatial Indexes
 Databases that support spatial data also support spatial indices which helps speed up spatial queries.
 # Spatial Data in .NET

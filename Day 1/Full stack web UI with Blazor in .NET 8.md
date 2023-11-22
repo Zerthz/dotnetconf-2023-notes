@@ -75,4 +75,4 @@ Which you can update yourself. The scaffolder is in preview. It is also using th
 Just change the version and use the new feature. It all works out of the box. 
 ## ASP.NET  Core app
 Add Blazor Pages
-![[dotnetconf-23-blazor.png]]
+![[../_Files/dotnetconf-23/dotnetconf-23-blazor.png]]

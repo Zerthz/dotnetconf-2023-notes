@@ -36,13 +36,13 @@ In the future/NET 9 they want to experiment with the trimability and moving to A
 [Blog Post](https://aka.ms/maui-memory-leaks) 
 The Roslyn analyzer will catch iOS circular references that lead to memory leaks. Many .NET developers are not knowledgeable about memory leaks and memory management so the analyzer will help them. They ran that in the MAUI codebase to try and catch as many as possible. 
 ## Improvements in Java Interop
-![](dotnetconf-23-javainterop.png)
+![](../_Files/dotnetconf-23/dotnetconf-23-javainterop.png)
 
 This interaction has been cleaned up, and it no longer allocates to the heap but instead the interaction is allocating an object to the stack which gets disposed. Oversimplified, yes, but that's the gist. This will basically affect all the Labels etc. in MAUI projects since they call into this. Like many things in performance it's the small things adding up. 
 ## Profiling
 _**dotnet-trace, dotnet-gcdump**_
 There are now new easy to use commands to get information about the application dumped out. Uses [dsrouter](https://learn.microsoft.com/en-us/dotnet/core/diagnostics/dotnet-dsrouter), and it's now a simplified use-flow. No more forwarding ports etc.
-![dotnetmau](dotnetconf-23-mauidump.png)
+![dotnetmau](../_Files/dotnetconf-23/dotnetconf-23-mauidump.png)
 [Wiki post to helpout](https://aka.ms/profile-maui) - it's still tricky so this helps out to profile a .NET MAUI application on mobile.
 # ASP.NET
 _David's part_
@@ -77,7 +77,7 @@ With AOT every dependency matters
 Minimal APIs is not trimmer and native AOT friendly, because there's a heavy usage of code generation to optimize throughput. It got a high startup time because it compiles endpoints at runtime. 
 
 The solution to this is the source generator, RDG. It replaces all the things like MapGet, MapPost etc. with AOT and trim friendly code. This moves a lot of the work from startup to compilation. 
-![](dotnetconf-23-rdg-ttfr.png)
+![](../_Files/dotnetconf-23/dotnetconf-23-rdg-ttfr.png)
 Basically we see a massive improvement the better the application gets.
 # Runtime Performance
 _Stephens part_
@@ -102,6 +102,6 @@ Previously the runtime had to do a lot of work to serialize and deserialize type
 This is dramatically faster and smaller in footprint.
 ## Search Values
 Json Fast Paths  is one of those if you just upgrade your version you get a better, faster, more performant application. There are also updates where by updating you get access to new primatives that are better suited for certain work and they're more performant for the work they do. And SearchValues is one of these latter ones. It allows you to efficiently search for an arbitrary size of bytes and chars. This replaces IndexOfMany, which is only optimized for small sizes of bytes and chars.
-![](dotnetconf-23-searchvalues.png)
+![](../_Files/dotnetconf-23/dotnetconf-23-searchvalues.png)
 
 This is now used throughout the libraries and ASP.NET. And it can improve a lot of throughput. 

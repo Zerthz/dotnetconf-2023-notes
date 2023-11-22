@@ -21,7 +21,7 @@ Might be values as retry times; might be feature flags; might be secrets like co
 Historically a lot of configuration got baked into at compile time. But now a days you are able to apply config at runtime. 
 ## Orders matter
 These days you define your configuration via JSON files, via environmental variables, via the CLI or other sources. These then get put through the provider into a configuration builder. But the order of the configuration sources matter. Later sources will overwrite earlier ones if duplicate keys are found. In the example here the DB key gets overwritten.
-![|450](dotnetconf-23-config-order.png)
+![|450](../_Files/dotnetconf-23/dotnetconf-23-config-order.png)
 
 This gets flattened, out, meaning the Json supports nesting but it also gets flattened out in the end. 
 # Out of the box
@@ -70,7 +70,7 @@ Follows the Interface Segregation Principle (ISP), this is going to let us not r
 ## An options class
 An options class must be non-abstract, with a public parameter less constructors. It must contain public read-write properties to bind. It won't bind to fields.
 
-![|500](dotnetconf-23-ioptions.png)
+![|500](../_Files/dotnetconf-23/dotnetconf-23-ioptions.png)
 `IOptions` doesn't support reloading, meaning if you update for example your KeyVault at runtime it won't update to account for that.
 
 ## IOptions, IOptionsMonitor, IOptionsSnapshot

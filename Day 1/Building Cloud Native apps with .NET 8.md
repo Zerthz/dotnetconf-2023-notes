@@ -33,7 +33,7 @@ You're either using libraries to fill gaps or you use wrapper libraries to make 
 Even with all the information gathered, distributed applications are just hard. Aspire tries to fix this.
 
 _Aspire Overview_
-![Aspire-Overview](dotnetconf-23-aspire-overview.png)
+![Aspire-Overview](../_Files/dotnetconf-23/dotnetconf-23-aspire-overview.png)
 # Demos
 The eShop demo application was built using Aspire.
 

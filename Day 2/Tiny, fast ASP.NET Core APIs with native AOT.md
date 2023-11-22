@@ -18,7 +18,7 @@ _Speaker: Damian Edwards - Principal Architect, Microsoft_
 
 >[!warning]+ Note
 >This session's demo had big issues due to a bug in Damian's VisualStudio. He talked about re-recording parts , and I might come back to those parts then. But he did talk it through instead of showing things. And his demos seem to mostly be proving that it works.
->![](dotnetconf-23-damianBug.png)
+>![](../_Files/dotnetconf-23/dotnetconf-23-damianBug.png)
 
 # Why Native AOT?
 - Smaller Apps

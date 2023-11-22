@@ -11,8 +11,12 @@
             "id": "b8a2c12291cacc64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Day 3/Clean Architecture with ASP.NET Core 8.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day 3/Clean Architecture with ASP.NET Core 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Day 3/Clean Architecture with ASP.NET Core 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day 3/Clean Architecture with ASP.NET Core 8.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8a2c12291cacc64",
+  "active": "d62b9452f67fcf49",
   "lastOpenFiles": [
     "Day 3/Clean Architecture with ASP.NET Core 8.md",
     "dotnet Conf 2023/Disclaimer.md",

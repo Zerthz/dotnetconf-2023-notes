@@ -22,13 +22,13 @@ _There are two architecture talks this Conference, this one about Vertical Slice
 >His screen is frozen in the vod right when he is showing the code. At least as of 2023-11-18. So no real idea what's going on there.
 # No Architecture
 In a web API there's typically three kinds of things going on. Presentation logic, business logic, and system logic - EF Core and the like. No architecture is what we call spaghetti architecture and it's not what you want for an application with any kind of size.
-![|250](dotnetconf-23-spaghetti.png)
+![|250](../_Files/dotnetconf-23/dotnetconf-23-spaghetti.png)
 The problem here is that it's easy for things to get very intertwined. And things leak out of their responsibilities into other ones. Business logic in the presentation logic area etc.
 
 It might be good to get started since you just start writing code, the start up time for the developers is very short. However when the project grows so also does the problems. It gets harder to develop new features because everything is entangled. It also makes it difficult for multiple teams to work on the project because each change breaks things for the others. It also becomes difficult to test your application. Basically don't do this.
 # n-Tier Architecture
 If we instead break out the technical concerns to their own layers, where they depend on each other in a downwards direction towards the database. We can represent this in a solution by using different projects for each layer. 
-![200](dotnetconf-23-ntier.png)
+![200](../_Files/dotnetconf-23/dotnetconf-23-ntier.png)
 It's an intuitive way to build a project. And it's also decent for developers to get started, since it's just a simple abstraction of what we might've had before. We separate things a bit more but it's still reasonably fast to set up and get started.
 
 n-Tier suffers from the same issues a spaghetti solution would (just not as strongly). You will feel the same pain when the application gets larger. And it becomes a problem when everything depends on the data access layer, you can't move on before that's in place.

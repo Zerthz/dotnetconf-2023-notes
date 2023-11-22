@@ -29,10 +29,10 @@ Clean architecture helps you use the architecture itself to enforce polices of h
 
 # Two approaches to layered architecture
 There's been multiple reasons for why you would want to break up your application into different logical layers. The most commonly traditional one is known as n-tier architecture. The problem n-tier got is that everything is transitively depending on the database. This can make it hard to write unit-tests for things above the database because you might have to deal with abstracting it away. 
-![|250](dotnetconf-23-ntier2.png)
+![|250](../_Files/dotnetconf-23/dotnetconf-23-ntier2.png)
 
 Meanwhile a similar Clean architecture project will look like this. Important to note is that not all the arrows are pointing towards the database. Which means not all the layers are transitively dependent on the database. To make this inversion, you have abstractions/interfaces in the Domain Layer. These abstractions can then be implemented by the infrastructure layer. This makes it so that the Domain layer has no dependencies on UI or interface.
-![|450](dotnetconf-23-clean.png)
+![|450](../_Files/dotnetconf-23/dotnetconf-23-clean.png)
 
 It's possible to ship successful software where you have all of these layers in one project in your solution. You just have different folders e.g. a Infrastructure folder and a UI folder. But there's no surefire way on compilation to ensure that there's no intermixing between the folders. You might be a good citizen and not do it, but you would have to manually check. Clean Architecture will give you the proper guard rails that you need.
 # Template

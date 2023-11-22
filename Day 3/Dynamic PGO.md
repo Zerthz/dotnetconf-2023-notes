@@ -43,7 +43,7 @@ If you got a virtual/interface/delegate call site inside a loop, then the guard 
 This helps to deabstract patterns known as "zero cost abstraction", where you write your code very generically but it doesn't run generically.
 # Instrumentation
 Even if you're using Ready To Run (R2R) which prejits your code to give it some performance optimizations out of the box, it can still get better. The JIT didn't know what paths were hotpaths in the program, or which paths gets called more than others. It did it best but this could stil be improved. Which is why it goes to T1 Instrumented, where it adds in the instrumentation to R2R code to make it into proper T1 code.
-![|450](dotnetconf-23-tiered-compile.png)
+![|450](../_Files/dotnetconf-23/dotnetconf-23-tiered-compile.png)
 ## Costs
 Instrumentation is not free, you're in there messing and tracking things that weren't tracked before. So to counteract this they added optimizations in .NET 8. For example the JIT might completely bypass instrumenting a method if there's nothing to learn, say if you have a method that just returns 3. So instead of wasting resources it just bypasses that.
 # Enabling

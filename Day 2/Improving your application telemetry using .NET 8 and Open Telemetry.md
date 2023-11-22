@@ -28,7 +28,7 @@ There was recently a sign off on a semantic schema for telemetry so that differe
 
 There's a wire protocol called OTLP. This defines how data is structured and transmitted between different components of the OT framework. It ensures that information about traces, metrics and other observability data can be efficiently and accurately sent from application to observability backend.
 
-![](dotnetconf-23-opentelemetry.png)
+![](../_Files/dotnetconf-23/dotnetconf-23-opentelemetry.png)
 ILogger, Meter, Activity are the three pillars of telemetry that the .NET platform has defined methods for and we use in our applications. These then talk to the OTEL SDK which exports it out with explicit exporters for different backends. Like if we want our data to end up in Application Insights we use the Azure Monitor Exporter.
 
 ## Prometheus note

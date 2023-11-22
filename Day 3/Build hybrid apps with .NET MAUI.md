@@ -25,7 +25,7 @@ This allows you a choice between reach and depth. The hybrid apps are not going 
 In .NET you got Blazor for building websites and PWAs (Progressive Web Apps - these wrapped web apps that run on native). And for Native applications you got .NET MAUI. 
 
 You can blend them together in hybrid applications which will use Blazor for the UI and MAUI for the platform abstraction layer. 
-![|450](dotnetconf-23-blazorhybrid.png)
+![|450](../_Files/dotnetconf-23/dotnetconf-23-blazorhybrid.png)
 
 There's no internet needed for these applications even though their built on web technologies. These applications can be distributed through the app-stores. It's not running a browser, it's all wrapped up.
 # Reusing UI

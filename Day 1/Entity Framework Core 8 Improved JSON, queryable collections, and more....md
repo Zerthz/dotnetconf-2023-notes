@@ -52,6 +52,6 @@ The example they use here is they query the database on Customers who have been 
 The new EF8 feature will turn the parameters that were a list into a JSON array, because the database knows how JSON works, but not arrays. So you can then use the parameters and do the heavy lifting of planning etc. only once.
 # Also new
 [Website with changes](https://aka.ms/ef8-whats-new)
-![](dotnetconf-23-new-ef8.png)
+![](../_Files/dotnetconf-23/dotnetconf-23-new-ef8.png)
 
 There's also an EF Core provider for MongoDB.

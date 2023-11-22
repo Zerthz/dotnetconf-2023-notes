@@ -57,7 +57,7 @@ Open standard that defines a compact and self-contained way for securely transmi
 A token is stateless, meaning the server doesn't have to store anything. This allows the system to be scalable and suitable for distributed systems. Since you're not increasing the resource cost by creating more tokens. 
 ## 3 parts
 Every token has three parts, Header, Payload, Signature.
-![|550](dotnetconf-23-jwt.png)
+![|550](../_Files/dotnetconf-23/dotnetconf-23-jwt.png)
 
 The header says which algorithm was used to sign the token, such as HMAC, SHA, or RSA. 
 Payload contains the claims about the user, such as email, id etc. 
