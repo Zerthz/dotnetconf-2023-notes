@@ -7,11 +7,12 @@ aliases:
   - .NET Conf 2023 Parent Page
 url: https://www.dotnetconf.net/agenda
 ---
+
+This project outlines and summarizes sessions from .NET Conf 2023. The goal is not to replace the videos but to be an addition, this is why the video of each talk to on the dotnet YouTube channel is directly linked to at the top of each summary. For some it might be easier to skim a document to see if it's something they want to dive into than watching a video, and this is where this repository comes in.  Where applicable I have linked to resources not only directly referenced in the talk but also links to external sites that might help you as it helped me. 
 This has been a labor of love, and hopefully you will find this helpful.
 # .NET Conf 2023 Overview
 Fully packed schedule, Day 1 is where the big news are dropping mostly. Between day 2 and day 3 they are broadcasting 24/7, so there is a lot of content available. The order was made before the event kicked off; I assume they made some last minute changes because it doesn't match the agenda any longer.
 
-[Disclaimer](Disclaimer.md).
 
 Here are some curated lists by topics to help sift through everything.
 [Building Stuff](Curated%20Lists/Building%20Stuff.md) - [New Features](Curated%20Lists/New%20Features.md) - [AI](Curated%20Lists/AI.md) - [Azure](Curated%20Lists/Azure.md) - [MAUI](Curated%20Lists/MAUI.md) - [Blazor](Curated%20Lists/Blazor.md) - [ASP.NET](Curated%20Lists/ASP.NET.md) - [Architecture & Project Setup](Curated%20Lists/Architecture%20&%20Project%20Setup.md)
@@ -64,4 +65,8 @@ Here are some curated lists by topics to help sift through everything.
 # Bonus
 _As mentioned the schedule is mismatched from the actual one so here are bonus sessions I added late on._
 ## [AI and .NET with Semantic Kernel](Day%20Bonus/AI%20and%20.NET%20with%20Semantic%20Kernel.md)
+
+---
+
+[Disclaimer](Disclaimer.md).
 
