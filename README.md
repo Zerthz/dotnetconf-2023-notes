@@ -15,6 +15,7 @@ Fully packed schedule, Day 1 is where the big news are dropping mostly. Between 
 
 
 Here are some curated lists by topics to help sift through everything.
+
 [Building Stuff](Curated%20Lists/Building%20Stuff.md) - [New Features](Curated%20Lists/New%20Features.md) - [AI](Curated%20Lists/AI.md) - [Azure](Curated%20Lists/Azure.md) - [MAUI](Curated%20Lists/MAUI.md) - [Blazor](Curated%20Lists/Blazor.md) - [ASP.NET](Curated%20Lists/ASP.NET.md) - [Architecture & Project Setup](Curated%20Lists/Architecture%20&%20Project%20Setup.md)
 # Day 1
 ## [Welcome to .NET 8](Day%201/Welcome%20to%20.NET%208.md) - Keynote
